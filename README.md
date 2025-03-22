@@ -1,5 +1,4 @@
 # Named Entity Recognition (NER) with Stanza
-Bu repository, Stanza kütüphanesini kullanarak metinlerdeki özel adları (isimler, yerler, organizasyonlar vb.) tespit etmek için bir Python örneğidir. Verilen cümlelerdeki adları ve diğer varlıkları tanımlar ve bunları ekrana yazdırır.
 
 ## Proje Özeti
 Bu Python kodu, **Stanza** kütüphanesinin Türkçe dil modeliyle metinleri işler ve metinde yer alan **named entity** (özel ad) türlerini tespit eder. Kullanıcıdan alınan metin üzerinde kişi isimleri, yer isimleri, organizasyonlar gibi varlıklar tanımlanır.
